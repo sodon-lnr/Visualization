@@ -49,8 +49,7 @@
   },
   "devDependencies": {},
   "keywords": [
-    "vite",
-    "plugin",
+    "vite-plugin",
     "dojo",
     "amd"
   ],
